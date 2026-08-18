@@ -1,5 +1,13 @@
 # Notes Linux — Shell et commandes de base
 
+## 0. Installation de la machine virtuel avec Ubuntu 26.04 LTS
+Ajout de VMware Tools : un ensemble de pilotes et d'utilitaires qui permet à une machine virtuelle de mieux fonctionner avec VMware et avec ton système hôte. il permet d'avoir :
+
+- Meilleure gestion de la souris entre la VM et ton PC.
+- Résolution d'écran dynamique : la résolution de la VM peut s'adapter à la fenêtre.
+- Copier-coller entre ton PC et la VM.
+- Glisser-déposer de fichiers entre l'hôte et la VM, selon la configuration.
+
 ## 1. C'est quoi un shell, et Bash c'est qui là-dedans ?
 
 **Shell** est un interpréteur de commande. C’est un intermédiaire entre l’utilisateur et le système d’exploitation. C’est lui qui interprète la commande et demande au système d’exploitation de l’exécuter.
