@@ -5,7 +5,7 @@ Apprendre les bases du Shell de Linux, pratiquer les commandes directement dans 
 
 
 ## 2. Contenu de la mission
-Retrouvez le contenu détaillé de la mission dans [voir le dossier mission-1-shell](./mission-1-shell/theorie.md)
+Retrouvez le contenu détaillé de la mission dans [voir le dossier mission-1-shell](../mission-1-shell/documentation/mission01.md)
 
 ## 3. Résumé final: notions principales
 
