@@ -1,4 +1,3 @@
-````markdown
 # Notes Linux — Shell et commandes de base
 
 ## 1. C'est quoi un shell, et Bash c'est qui là-dedans ?
@@ -225,5 +224,22 @@ moses@machine:~$
 | `>>`    | Ajouter à la fin d’un fichier       | `\|`        | Pipe : envoyer la sortie de la commande A vers l’entrée de la B |
 | `<`     | Prendre l’entrée depuis un fichier  | `\|\|` (OU) | Exécuter la deuxième commande si la première échoue             |
 
-```
-```
+
+## 5. Resumé des commandes de OverTheWire Level 0 to Level 6
+
+find . -type f -name '-*'
+
+cat -- ./-filename
+
+cat .hidden
+
+cat ./-
+
+cat ./-filename
+
+cat -- "--filename"
+
+bandit5@bandit:~$ find inhere/ -type f -size 1033c ! -executable
+
+pXa26xhMWaC2SvDotA4r9EgZkulOeSBW
+
