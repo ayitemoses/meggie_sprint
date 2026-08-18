@@ -247,6 +247,8 @@ cat ./-filename
 
 cat -- "--filename"
 
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
 bandit5@bandit:~$ find inhere/ -type f -size 1033c ! -executable
 
 pXa26xhMWaC2SvDotA4r9EgZkulOeSBW
